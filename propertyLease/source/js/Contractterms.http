@@ -1,0 +1,32 @@
+{
+    "contractTerms": {
+        "type": "lease",
+        "leaseTerms": {
+            "leaseDuration": "P2Y11M",
+            "taxHolidays": [
+                {
+                    "id": uuid4,
+                    "taxHolidaysDuration": "P5M",
+                    "conditions": "Тут писати умови",
+                    "conditions_en": "Conditions are to be noted here",
+                    "conditions_ru": "Условия писать здесь",
+                    "value": {
+                      "currency": "UAH",
+                      "amount": 12000.1,
+                      "valueAddedTaxIncluded": false
+                    }
+                }
+            ],
+            "escalationClauses": [
+                {
+                    "id": uuid4,
+                    "escalationPeriodicity": "R/P3M",
+                    "escalationStepPercentageRange": 0.25,
+                    "conditions": "Тут писати умови",
+                    "conditions_en": "Conditions are to be noted here",
+                    "conditions_ru": "Условия писать здесь"
+                }
+            ]
+        }
+    }
+}
