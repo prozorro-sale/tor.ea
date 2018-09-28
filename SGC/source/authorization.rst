@@ -1,11 +1,10 @@
 .. _authorization:
 
-Авторизація учасника
-====================
+Authorization of the participant
+================================
 
-Єдиною відмінністю від існуючих процесів є поява у дисклеймері фрази накшталт:
+The only difference from the existing processes is the appearance in the disclaimer such phrases as:
        
-       `Погоджуючись з умовами проведення аукціону ви приймаєте та погоджуєтесь зі 
-       стартовою ціною об’єкту, що продається`
+       `Accepting the terms of the auction, you accept and agree with the starting price of the item being sold.`
 
-Ця ж фраза міститиметься у дисклеймері для решти існуючих типів аукціону. Решта процесу залишається незмінною.
+The same phrase will be contained in the disclaimer for the rest of the existing auction types. The rest of the process remains unchanged.

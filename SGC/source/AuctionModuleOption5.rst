@@ -1,6 +1,6 @@
 .. _AuctionModuleOption5:
 
-Модуль аукціонів
-================
+Auction module
+==============
 
-У даній документації міститься інформація щодо модуля аукціонів для процедури landLease.
+This documentation contains information on the auctions module for the landLease procedure.

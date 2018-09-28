@@ -7,7 +7,7 @@
 
 ## Documentation
 
-Documentation can be found here 
+Documentation can be found here https://sgc.tor.ea2.openprocurement.io/uk/latest/
 
 ### Building documentation
 

@@ -1,8 +1,8 @@
-Вітаємо в документації SGC
-==========================
+Welcome to lendLease documentation
+==================================
 
-Зміст:
-------
+Content:
+--------
 
 .. toctree::
    :maxdepth: 2

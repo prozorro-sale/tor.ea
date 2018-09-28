@@ -1,31 +1,32 @@
 .. _bids:
 
-Подача пропозиції учасником
-===========================
+Submit an offer by a participant
+================================
 
-Після того, як учасника було авторизовано, він потрапляє на сторінку модуля аукціону, де знизу з’являються кнопки, які відповідають за виконання дій: підвищення поточної ціни та погодження з поточною ціною.
+After the participant has been logged in, he gets to the auction module page, where displayed  the buttons that are performance actions: increasing the current price and agreed with the current price.
 
-Натискання на відповідну кнопку призводить до різної поведінки модуля аукціонів.
+Clicking on the corresponding button, results in different behavior of the auctions module.
 
-В аукціоні присутнє обмеження на передану кількість запитів від користувача - 1 запит/секунду.
+The auction has a limit on the number of requests from the user transferred - 1 request / second.
 
-Варіації натискання кнопок
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variations of button presses (clicks)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Учасник натичнув кнопку `підвищити`
------------------------------------
+The participant clicked on the button `to Rise`
+-----------------------------------------------
 
-Якщо учасник натисне кнопку підвищити, на сторінці модулю аукціонів з'явиться блок з можливими варіантами ставок. Кожен пропонований варіант зі списку більший за суму `ціна потчного раунду + minimalStep.amount`, та кратний `minimalStep.amount`.
+If a participant  presses the button "to rise", on the auction module page will appear a block with possible options of bid. Each proposed option on the list is greater than the price of the current round + minimalStep.amount, and multiple (aliquot) minimalStep.amount
 
-З введенням суми, система приймає передане значення, після чого поточний раунд завершується. Завершення раунду зупиняє таймер.
+When the amount is entered, the system accepts the transmitted value, 	
+whereafter the current round is completed. Ending the round stops the timer.
 
-Ціна наступного раунду більша за ставку учасника на `minimalStep.amount`.
+The price of the next round is higher than the participant's bid for minimalStep.amount.
 
-Учасник натиснув кнопку `погодитися`
-------------------------------------
+The participant clicked on the button `to accept`
+-------------------------------------------------
 
-Для того, аби аукціон перейшов до наступного раунду, необхідно й достатньо аби 1 учасник натиснув на кнопку “погодитись”. З виконанням цих дій, поточний раунд завершується.
+In order for an auction to pass to the next round, it is necessary and sufficient for one participant to click on the "agree" button. With these actions, the current round is completed.
 
-Завершення раунду зупиняє таймер зверху.
+Ending the round stops the timer from the top.
 
-Ціна наступного раунду калькулюється автоматично та є рівною `ціні попереднього раунду + minimalStep.amount`.
+The price of the next round is calculated automatically and is equal to the price of the previous round + minimalStep.amount.

@@ -1,7 +1,7 @@
 .. _scenario:
 
-Сценарії можливого розвитку подій
-=================================
+Scenarios for possible event development
+========================================
 
 Scenario I: "Increase" has been pushed within the 1st stage
 

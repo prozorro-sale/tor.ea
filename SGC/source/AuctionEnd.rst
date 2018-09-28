@@ -1,10 +1,10 @@
 .. _AuctionEnd:
 
-Завершення аукціону
-===================
+Auction Completion
+==================
 
-Якщо упродовж 3 хвилин не зроблено жодної ставки, аукціон завершується та переходить до етапу Оголошення результатів.
+If within 3 min no bid was made, the auction ends and goes to the Announcement results section.
 
-Також аукціон завершується у разі настрання 17:00.
+Also, become due  17:00, the auction ends.
 
-В момент коли завершується останній раунд аукціону лунає гонг, та висвітлюється повідомлення "Лунає гонг". Після чого аукціон завершується та переходить до наступного етапу.
+At the moment when the last round of the auction ends, the gong is heard, and  displayed message "Sounds Gong". After that, the auction ends and goes to the next stage.
