@@ -1,25 +1,15 @@
-![alt text](https://img.shields.io/hexpm/l/plug.svg "License Apache Version 2.0")
-[![Documentation Status](https://readthedocs.org/projects/mepps-mdtor/badge/?version=latest)](http://tor.mepps.openprocurement.io/en/latest/?badge=latest)
+![alt text](https://github.com/prozorro-sale/tor.ea/blob/master/LICENSE.txt "License Apache Version 2.0")
+[![Documentation Status](https://readthedocs.org/projects/torea/badge/?version=latest)](https://propertylease.readthedocs.io/uk_UA/latest/)
 
-Terms of Reference
+# Introduction
 
-Philosophy
-==========
-Three founding blocks of the <> include:
+`tor.ea` repository contains documentation for propertyLease procedure.
 
-1. Hybrid electronic system based on an open-source model. 
-2. "Everyone eyes everything" principle.
-3. Golden triangle of partnership - a unique form of collaboration between business, state and
-civil society where functions are split between different stakeholders to ensure independence
-and mutual control.
+## Documentation
 
+Documentation can be found here 
 
-Documentation
-=============
-
-
-Building documentation
-----------------------
+### Building documentation
 
 Use the following commands to build documentation from `docs/source` into `docs/html`:
  
