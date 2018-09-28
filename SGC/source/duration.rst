@@ -1,18 +1,18 @@
 .. _duration:
 
-Тривалість раунду
-=================
+Round duration
+==============
 
-Після того, як лунає гонг розпочинається перший раунд аукціону. Ціна на першому раунді рівна сумі (`value.amount + minimalStep.amount`).
+After Gong  sounds starts the first round of auction. Price of first round equivalent to sum (value.amount`+`minimalStep.amount).
 
-Зверху сторінки відображається таймер, що повідомляє про час до завершення поточного раунду.
+At the top of the page is a timer that reports the time before the end of the current round.
 
-Максимальна тривалість кожного з раундів рівна трьом хвилинам. При цьому тривалість кожного з раундів є невизначеною та залежить від дій учасників, що описані в умовах.
+The maximum duration of each round is equal to three minutes.  Herewith, the duration of each round is indefinite and depends on the actions of the participants described in the conditions.
 
-По завершенню раунду наступає 15-ти секундна пауза, після якої починається наступний раунд.
+Upon completing of the round there is a 15 second pause, after which the next round begins.
 
-Наступні дії системи є аналогічними до описаних вище.
+The following system actions are similar to those described above.
 
 .. important:: 
    
-   Тривалість раунду, що припадає на час ~17:00 різниться від стандартної та може тривати менше 3 хвилин (ситуація, коли раунд “обривається” не дочекавшись виконання умов або сходження 3-ох хвилин).
+   The duration of the round that takes about ~ 17: 00 is different from the standard one and may take less than 3 minutes (a situation where the round "breaks" without waiting for the conditions or passed 3 minutes).

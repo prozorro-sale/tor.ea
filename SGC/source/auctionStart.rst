@@ -1,11 +1,11 @@
 .. _AuctionStart:
 
-Початок аукціону
-================
+Auction Start
+=============
 
-Після закінчення періоду подачі пропозицій на сторінці модулю аукціонів з'являється:
+Upon completion of the proposal submission period on the page of the auction module appears:
   * auctionID
   * description
   * value.amount
 
-На сторінці модуля аукціонів зверху відображається таймер, що повідомляє про кількість хвилин до початку торгів. Сам аукціон розпочинається в проміжку між 10:00 та 10:30. Конкретний час початку аукціону визначається при публікації процедури. В момент початку процедури на сторінці модуля аукціону висвітлюється повідомлення "Лунає гонг", що супроводжується звуковим сигналом. Після чого розпочинається аукціон.
+The auction page page displays a timer that shows the number of minutes before the bidding starts. The auction itself will be shifted between 10:00 and 10:30. The exact start time of the auction is determined by the publication of the procedure. At the beginning of the procedure, on the auction module page  displayed message "Sounds Gong" , accompanied by an audible signal. After that the auction starts.
